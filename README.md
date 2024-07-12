@@ -1,7 +1,7 @@
 # prachibhugu.github.io-portfolio
 
 #education
-nitrr
+nitrr- 123
 12th
 10th
 
